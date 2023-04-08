@@ -16,7 +16,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
     { name: 'New', icon: <HomeIcon /> },
-    { name: 'HETech', icon: <CodeIcon /> },
+    { name: 'JS Mastery', icon: <CodeIcon /> },
     { name: 'Coding', icon: <CodeIcon /> },
     { name: 'ReactJs', icon: <CodeIcon /> },
     { name: 'NextJs', icon: <CodeIcon /> },
@@ -39,3 +39,4 @@ export const demoChannelUrl = '/channel/UCmXm1B4-HJyD7wek0Uo97A';
 export const demoVideoUrl = '/video/GDa8kZLNhJ4';
 export const demoChannelTitle = 'HETechologies'
 export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API projects in 10 Hours - Full Course | RapidAPI';
+export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
